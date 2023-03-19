@@ -1,0 +1,10 @@
+cloud_pct.innerHTML = repsonse.cloud_pct 
+feels_like.innerHTML = repsonse.feels_like
+humidity.innerHTML = repsonse.humidity
+max_temp.innerHTML = repsonse.max_temp
+min_temp.innerHTML = repsonse.min_temp
+sunrise.innerHTML = repsonse.sunrise
+sunset.innerHTML = repsonse.sunset
+temp.innerHTML = repsonse.temp
+wind_degrees.innerHTML = repsonse.wind_degrees
+wind_speed.innerHTML = repsonse.wind_speed

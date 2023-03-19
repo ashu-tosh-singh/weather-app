@@ -1,0 +1,30 @@
+body {
+    animation: gradient 15s ease infinite;
+    background-image: url('assets/background.png');
+    background-size: 2000px 1000px;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.bottom-container{
+margin: center;
+}
+  
+.bottom-container img {
+    margin-top: 50px;
+    text-align: center;
+    
+    width: 2.5%
+  }
